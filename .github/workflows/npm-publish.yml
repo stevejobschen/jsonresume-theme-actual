@@ -2,7 +2,7 @@ name: Publish npm package
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   version-check:
     runs-on: ubuntu-latest
