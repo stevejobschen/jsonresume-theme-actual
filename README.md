@@ -46,7 +46,6 @@ git clone git@github.com:davcd/jsonresume-theme-actual.git
 
 npm install ./jsonresume-theme-actual
 
-
 gulp
 ```
 
