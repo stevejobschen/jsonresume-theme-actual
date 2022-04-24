@@ -1,5 +1,5 @@
 {
-  "name": "jsonresume-theme-actual",
+  "name": "@stevejobschen/jsonresume-theme-actual",
   "main": "index.js",
   "files": [
     "/assets",
