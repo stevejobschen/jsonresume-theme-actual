@@ -24,7 +24,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "eslint-plugin-n": "^15.1.0",
     "iso-3166-1": "^2.1.1",
     "markdown-it": "^13.0.0",
     "moment": "^2.29.3",
@@ -33,6 +32,7 @@
   "devDependencies": {
     "browser-sync": "^2.27.9",
     "eslint": "^8.14.0",
+    "eslint-plugin-n": "^15.1.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-promise": "^6.0.0",
